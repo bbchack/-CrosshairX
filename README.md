@@ -9,7 +9,7 @@ It provides smooth performance, modern UI customization, and works in fullscreen
 ## 📥 Download
 
 - **Download Link:**  
-  [ADD YOUR LINK HERE]
+  [https://github.com/bbchack/-CrosshairX/releases/tag/new]
 
 - **Important:**  
   Please open the README before installation and setup.
